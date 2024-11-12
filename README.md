@@ -21,7 +21,7 @@ A simple Java Swing application to help students calculate their attendance perc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/attendance-calculator.git
+   git clone https://github.com/Ramann2/java-project
    cd attendance-calculator
    ```
 2. Compile the Java file:
